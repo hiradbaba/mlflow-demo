@@ -1,0 +1,32 @@
+# MLflow artifacts and metadata
+/mlruns/
+/mlruns.db
+
+# Python virtual environment
+/venv/
+/.venv/
+/env/
+
+# IDE and editor files
+/.vscode/
+/.idea/
+*.iml
+*.ipynb_checkpoints/
+
+# Compiled Python files
+__pycache__/
+
+.DS_Store
+
+*.yaml
+
+*.txt
+
+
+params
+
+logs
+
+artifacts
+
+a1/mlruns/*
